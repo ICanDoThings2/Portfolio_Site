@@ -1,13 +1,19 @@
 
 var visitor_age;
 
+main();
+
 function main()
 {
-	$('.Age_Input').on("submit", Entered_Age())
+	$('.expired_walrus').hide();
+	$('.walrus_longevity').hide();
+	//$('.Age_Input').on("submit", Entered_Age())
+	
+	
 }
 
 
-function Entered_Age( entered_age )
+function Entered_Age( var entered_age )
 {
 	if ( isNaN(entered_age) )
 	{

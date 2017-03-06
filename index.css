@@ -8,4 +8,12 @@ font-family: monoscape;}
 	}
 	
 	
-.
+.expired_walrus
+{
+	visibility : hidden;
+}
+
+.walrus_longevity
+{
+	visibility : hidden;
+}
