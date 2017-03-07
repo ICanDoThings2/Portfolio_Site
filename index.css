@@ -17,3 +17,15 @@ font-family: monoscape;}
 {
 	visibility : hidden;
 }
+
+
+#walrus_guard
+{
+	width: 50%;
+	height: 50%;
+}
+
+html
+{
+	background-color:lightblue;
+}

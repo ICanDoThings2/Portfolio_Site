@@ -14,7 +14,7 @@ function main()
 }
 
 
-function Entered_Age( var entered_age )
+function Entered_Age( entered_age )
 {
 	if ( isNaN(entered_age) )
 	{
