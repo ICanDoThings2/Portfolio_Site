@@ -8,23 +8,6 @@ font-family: monoscape;}
 	}
 	
 	
-.expired_walrus
-{
-	visibility : hidden;
-}
-
-.walrus_longevity
-{
-	visibility : hidden;
-}
-
-
-#walrus_guard
-{
-	width: 50%;
-	height: 50%;
-}
-
 html
 {
 	background-color:lightblue;
