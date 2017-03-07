@@ -1,7 +1,8 @@
 
 var visitor_age;
 
-main();
+$(document).ready(function(){ main(); })
+
 
 function main()
 {
