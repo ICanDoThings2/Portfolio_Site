@@ -1,4 +1,4 @@
-.Front_Page_Txt{  color:blue;
+.Front_Page_Txt{  color:white;
     font-size:150%;
 font-family: monoscape;}
 	
@@ -9,10 +9,22 @@ font-family: monoscape;}
 	
 	
 h3{
-	text-align:center
+	text-align:center;
+	color:white;
+}
+
+h2{
+	color:white;
+}
+
+p{
+	color:white;
 }
 	
 html
 {
-	background-color:lightblue;
+	background-color:black;
+	background-image:url(https://cdn.shutterstock.com/shutterstock/videos/754483/thumb/1.jpg);
+	background-repeat:no-repeat;
+	background-size:100%;
 }
