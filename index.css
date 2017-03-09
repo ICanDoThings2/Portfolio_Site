@@ -19,6 +19,8 @@ h2{
 
 p{
 	color:white;
+	padding: 24px;
+	class="lead";
 }
 	
 html
